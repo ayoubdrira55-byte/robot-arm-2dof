@@ -94,4 +94,4 @@ robot-arm-2dof/
 
 ## Auteur
 
-**Ismail Drira** — Ingénieur en Génie Industriel, licence en Informatique Industrielle et Automatisme.
+**Ayoub Drira** — étudiant en électrique, électronique et automatisme.
